@@ -1,0 +1,89 @@
+{
+  "theme_color": "#a4ebf3",
+  "background_color": "#ccf2f4",
+  "display": "browser",
+  "scope": "/",
+  "start_url": ".",
+  "name": "Projetai",
+  "short_name": "Projetai",
+  "description": "Projetai, App sobre Apresentao de projetos",
+  "orientation": "portrait-primary",
+  "categories": [
+    "education",
+    "social",
+    "personalization"
+  ],
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-16x16.png",
+      "sizes": "16x16",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-32x32.png",
+      "sizes": "32x32",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-256x256.png",
+      "sizes": "256x256",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "shortcuts": [
+    {
+      "name": "Index",
+      "url": "/",
+      "description": "Index da pagina"
+    },
+    {
+      "name": "Banca",
+      "url": "/",
+      "description": "Todos os convidados e professores "
+    },
+    {
+      "name": "Projetos",
+      "url": "/projetos",
+      "description": "Lista todos os projetos cadastrados"
+    }
+  ],
+  "screenshots": [
+    {
+      "src": "screeshot.webp.png",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    },
+    {
+      "src": "screenshot2.webp",
+      "sizes": "1280x720",
+      "type": "image/webp"
+    }
+  ]
+}
