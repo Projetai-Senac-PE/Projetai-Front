@@ -13,10 +13,12 @@ O ProjetAí é uma iniciativa da Faculdade Senac Pernambuco para apresentar os p
 
 Time      | Função
 --------- | ------
-[Gabriel](https://github.com/gmadeiradev)| Backend
-[Inoa](https://github.com/InoaPSilva) | Backend
-[Renner](https://github.com/RennerFox) | Frontend
+[Augusto Wesley](https://github.com/Augustowtg) | FullStack
+[Gabriel Madeira](https://github.com/gmadeiradev)| Backend
+[Inoa De Paulo](https://github.com/InoaPSilva) | Backend
+[Matheus Renner](https://github.com/RennerFox) | Frontend
 [Abraão](https://github.com/abraaop) | Backend
+[Caio Pinto](https://github.com/TheHiyoko) | Backend
 
 # Getting Started with Create React App
 
